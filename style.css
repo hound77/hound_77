@@ -78,7 +78,7 @@ section{
     min-height: 100vh;
     background:#111;
     background:url(images/bp3.jpg);
-    background-size:cover;
+    background-size300px;
     background-position: right;
     display:flex;
     justify-content: space-between;
